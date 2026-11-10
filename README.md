@@ -4,9 +4,11 @@
 
 # 📑 Awesome Sell-Side & Revenue Contract Management 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 🌟 **A curated directory of top Sell-Side and Revenue Contract Management platforms** — comparing enterprise SaaS/Hosted commercial solutions with open-source alternatives for orchestrating Configure, Price, Quote (CPQ), Contract Lifecycle Management (CLM), usage-based subscription billing, and ASC 606 / IFRS 15 revenue recognition across modern lead-to-cash workflows.
 
@@ -26,6 +28,8 @@ The global **Contract Lifecycle Management (CLM)** market is valued at approxima
 - [📊 Feature Comparison Matrix](#-feature-comparison-matrix)
 - [🔍 SEO & Industry Keywords](#-seo--industry-keywords)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [📄 License](#-license)
 
 ---
@@ -103,6 +107,23 @@ Contributions are welcomed with open arms! 💡 If you know of an active open-so
 2. 🌿 Create your feature branch (`git checkout -b feature/new-tool`).
 3. 📝 Add the entry matching the tables above with verifiable pricing, limits, or GitHub star badges.
 4. 🚀 Open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this directory valuable for your research, team evaluation, or project architecture, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute new tools or updates.
+- 📢 **Share** it with fellow software engineers, sales ops, and legal tech professionals.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Sell-Side-Revenue-Contract-Management&type=Date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Sell-Side-Revenue-Contract-Management&type=Date&legend=top-left)
 
 ---
 
