@@ -55,9 +55,9 @@ Below is the curated landscape of commercial, cloud-hosted Sell-Side and Revenue
 
 Self-hosted, developer-friendly, and community-driven platforms addressing Sell-Side Contract Lifecycle Management, CPQ, digital signing, and billing monetization.
 
-The repositories below are **sorted in descending order by GitHub Stars count** ⭐:
+The repositories below are **sorted in descending order by GitHub_Stars_Count** ⭐:
 
-| Project 📦 | Stars Badge 🌟 | Stack 💻 | License 📜 | Description & Key Sell-Side Capabilities ⚙️ |
+| Project 📦 | Stars_Badge 🌟 | Stack 💻 | License 📜 | Description & Key Sell-Side Capabilities ⚙️ |
 |:---|:---:|:---|:---|:---|
 | **[Documenso](https://github.com/documenso/documenso)** | [![Stars](https://img.shields.io/github/stars/documenso/documenso?style=social&color=white)](https://github.com/documenso/documenso/stargazers) | TypeScript, Next.js, Prisma, PostgreSQL | AGPL-3.0 | **Open Trust Infrastructure & eSign platform.** The open-source alternative to DocuSign. Provides self-hostable digital document signing, cryptographic audit logs, custom signing workflows, and developer APIs for contract execution. |
 | **[Lago](https://github.com/getlago/lago)** | [![Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) | Ruby, Go, PostgreSQL, Redis | AGPL-3.0 | **Open-source metering and usage-based billing platform.** Essential sell-side billing engine handling hybrid pricing, consumption-based contracts, tiered subscriptions, and automated invoice reconciliation. |
@@ -105,7 +105,7 @@ Contributions are welcomed with open arms! 💡 If you know of an active open-so
 
 1. 🍴 Fork the repository.
 2. 🌿 Create your feature branch (`git checkout -b feature/new-tool`).
-3. 📝 Add the entry matching the tables above with verifiable pricing, limits, or GitHub star badges.
+3. 📝 Add the entry matching the tables above with verifiable pricing, limits, or GitHub Stars_Badges.
 4. 🚀 Open a Pull Request.
 
 ---
